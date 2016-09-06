@@ -1,2 +1,2 @@
 # eloquentjs
-Exercices from eloquentjavascript.net. Some script might be in coffeescript.
+Exercices from eloquentjavascript.net. Written in Coffeescript, compiled by vim-coffee-script plugin.
