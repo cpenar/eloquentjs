@@ -1,4 +1,4 @@
-JOURNAL = require './jacques_journal.js'
+JOURNAL = require './jacques_journal.data.js'
 journal = []
 addEntry = (events, didITurnIntoASquirrel) ->
     local =

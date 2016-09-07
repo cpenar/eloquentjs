@@ -1,4 +1,4 @@
-ancestry = JSON.parse require "./ancestry.js"
+ancestry = JSON.parse require "./05_ancestry.data.js"
 
 average = (array) ->
     (array.reduce (accu, elem) ->
