@@ -93,5 +93,5 @@ var JOURNAL = [
 
 // This makes sure the data is exported in node.js —
 // `require('./path/to/04_data.js')` will get you the array.
-//if (typeof module != "undefined" && module.exports)
-//  module.exports = JOURNAL;
+if (typeof module != "undefined" && module.exports)
+  module.exports = JOURNAL;
